@@ -6,6 +6,7 @@
 
 The Decentralized Quantum Thought Interface (DQTI) represents a paradigm shift in how humans interact with blockchain technology. By establishing direct quantum connections between neural activity and distributed ledgers, we've created a system that allows for thought-driven blockchain interactions, eliminating traditional interfaces and enabling a new era of cognitive computing.
 
+
 ## Core Components
 
 ### 1. Neural Quantum Entanglement Contract

@@ -7,3 +7,5 @@ Y
 )tests/neural-quantum-entanglement.test.ts,7/2/72884d498149c2d4127d2fc736eff65cc7021cf3
 U
 %contracts/thought-to-transaction.clar,0/9/097bfd1da313e5d627e497963ade1d6987bd47a1
+T
+$tests/thought-to-transaction.test.ts,8/9/8959205d7c66fe85d2a15c69a96c06804abe2259
